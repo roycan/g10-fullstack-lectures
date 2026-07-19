@@ -4,7 +4,7 @@ Self-contained lecture decks. Each one works **fully offline** — images, code
 highlighting, and diagrams are all embedded in a single HTML file.
 
 ## Online
-Open: https://<YOUR_USER>.github.io/g10-fullstack-lectures/
+Open: https://roycan.github.io/g10-fullstack-lectures/
 
 ## Offline (slow or no internet)
 1. Go to **Releases**: https://github.com/<YOUR_USER>/g10-fullstack-lectures/releases
